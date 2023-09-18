@@ -49,11 +49,11 @@ class Face_and_Object_Recognition:
         while True:
             ret, frame = video_capture.read()
 
-            model = YOLO("yolov8s.pt")
+            # model = YOLO("yolov8s.pt")
 
-            results = model.predict(source =0, show = True)
+            # results = model.predict(source =0, show = True)
 
-            print(*results)
+            # print(*results)
 
             # Only process every other frame of video to save time
             if self.process_current_frame:
