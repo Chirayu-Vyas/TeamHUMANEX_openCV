@@ -1,5 +1,12 @@
 # TeamHUMANEX_openCV
 
+Requirements:
+$ pip install opencv-python
+$ pip install csv
+$ pip intall face_recognition
+
+
+
 The essence of the Humanex project revolves around crafting a life-sized 
 humanoid prototype. Our objective is to design a robot that not only mirrors a 
 human-like appearance but also possesses the ability to engage in 
