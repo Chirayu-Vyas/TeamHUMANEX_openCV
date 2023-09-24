@@ -1,9 +1,9 @@
 # TeamHUMANEX_openCV
 
 Requirements:
-$ pip install opencv-python
-$ pip install csv
-$ pip intall face_recognition
+$ pip install opencv-python 
+$ pip install csv 
+$ pip intall face_recognition 
 
 
 
